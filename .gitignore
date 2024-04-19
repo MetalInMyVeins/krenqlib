@@ -1,0 +1,7 @@
+*.krenq
+*.log
+vimbin
+kbin
+.ycm_extra_conf.py
+
+
