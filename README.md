@@ -1,3 +1,6 @@
+# Deprecation Notice
+This project is deprecated in favor of it's completely open source and more powerful counterpart which is yet to be published.
+
 # Krenq
 High quality file encryptor library written in C++ 20.
 
@@ -7,7 +10,7 @@ High quality file encryptor library written in C++ 20.
 
 int main()
 {
-  // Construct Krenq with files/paths.
+  // Construct Krenq with files/paths
   Krenq k{"examples/"};
 
   // Encrypt the entries that Krenq has been constructed with and
